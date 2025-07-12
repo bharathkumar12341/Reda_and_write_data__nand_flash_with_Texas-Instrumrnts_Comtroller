@@ -1,0 +1,1 @@
+# Reda_and_write_data__nand_flash_with_Texas-Instrumrnts_Comtroller
